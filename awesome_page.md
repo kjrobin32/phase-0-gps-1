@@ -2,7 +2,7 @@
 
 ## **Adventures**
 * *Pokemon GO* Excursions
-	`Pikachu_Caught? = true`
+	`Pidgey_Caught? = true`
 * UK Travels
 	[UK vs UCLA](http://espn.go.com/mens-college-basketball/boxscore?gameId=400593228)
 
